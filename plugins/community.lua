@@ -7,6 +7,7 @@ return {
   { import = "astrocommunity.colorscheme.nightfox" },
   { import = "astrocommunity.colorscheme.tokyonight" },
   { import = "astrocommunity.pack.typescript" },
+  { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.git.git-blame-nvim" },
   { import = "astrocommunity.motion.nvim-surround" },
   { import = "astrocommunity.motion.leap-nvim" },
